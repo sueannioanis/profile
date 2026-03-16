@@ -1,3 +1,3 @@
-abridged version - email for more details
+this is the abridged version
 
 email: s70550687@gmail.com
