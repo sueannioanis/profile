@@ -7,3 +7,5 @@ This is the abridged [.pdf](https://github.com/sueannioanis/.github/blob/main/Pr
 **Discussion**
 
 [Send Feedback](https://forms.gle/5xUbWMUWQ4QhZhnV9)
+
+<img src="https://raw.githubusercontent.com/sueannioanis/.github/refs/heads/main/linkedin.svg" />
