@@ -4,7 +4,7 @@ This is the abridged [.pdf](https://github.com/sueannioanis/.github/blob/main/Pr
 
 **Qualifications**
 
-13+ years as an engineer (datacenter engineering experience, university degree in technology)
+13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology)
 
 **Discussion**
 
