@@ -1,3 +1,5 @@
+**Qualifications:** Lead Software Engineer, 13+ years as an engineer (datacenter engineering experience, university degree in technology)
+
 **Discussion**
 
 [Send Feedback](https://forms.gle/5xUbWMUWQ4QhZhnV9)
