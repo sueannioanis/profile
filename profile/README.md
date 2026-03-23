@@ -10,4 +10,8 @@ This is the abridged [.pdf](./resume/Profile%20-%202026-03-20T121419.987.pdf) ve
 
 [Send Feedback](https://forms.gle/5xUbWMUWQ4QhZhnV9)
 
+**Email**
+
+s70550687@gmail.com
+
 
