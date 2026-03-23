@@ -1,6 +1,6 @@
 This is the abridged [.pdf](https://github.com/sueannioanis/.github/blob/main/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
 
-<img src="https://img.shields.io/badge/linkedin-in%20failing-red" alt="Linkedin: Failing" />
+<img src="https://img.shields.io/badge/linkedin-failing-red" alt="Linkedin: Failing" />
 
 **Qualifications**
 
