@@ -1,5 +1,7 @@
 [Hosted](https://sueannioanis.com)
 
+Copy:
+
 Qualifications: Lead Software Engineer, 13+ years as an engineer (datacenter engineering experience, executive credentials, university degree with honors in technology)
 
 –
