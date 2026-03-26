@@ -1,4 +1,4 @@
-[Hosted](https://sueannioanis.com)
+[Hosted](https://sueannioanis.com) 🕯️
 
 Copy:
 
