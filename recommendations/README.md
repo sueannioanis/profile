@@ -1,3 +1,3 @@
 ## Recommendations
 
-[Request Recommendations](https://forms.gle/5xUbWMUWQ4QhZhnV9)
+[Request](https://forms.gle/5xUbWMUWQ4QhZhnV9)
