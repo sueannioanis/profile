@@ -1,3 +1,5 @@
+**Summary**
+
 This is the abridged [.pdf](./resume/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
 
 **Qualifications**
