@@ -2,6 +2,7 @@
 
 Copy:
 
+```
 Qualifications: Lead Software Engineer, 13+ years as an engineer (datacenter engineering experience, executive credentials, university degree with honors in technology)
 
 –
@@ -49,3 +50,4 @@ I specialize in building and leading the development of scalable, reliable produ
 Collaboration is at the heart of my work. I partner closely with cross-functional teams to translate abstract ideas into well-executed products that align with both business goals and user needs. Beyond the technical, I am deeply committed to mentorship and team development. By fostering a culture of accountability and professional growth, I help engineers at all levels thrive while optimizing processes to ensure we move efficiently without compromising quality. Ultimately, my goal is to elevate both the product and the team, delivering solutions that create lasting value.
 
 I traveled to eight countries out of one hundred ninety-five. In my spare time, I enjoy giving back to the community through volunteer work. I find this effort to be especially meaningful in contributing to organizations like Habitat for Humanity, where I can be part of initiatives that create safe, affordable housing for those in need. Volunteering allows me to connect with others, make a tangible impact, and support causes that strengthen communities. This is an important way for me to stay grounded while contributing to something larger than myself.
+```
