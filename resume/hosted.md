@@ -1,5 +1,3 @@
-[Hosted](https://sueannioanis.com) 🕯️
-
 Linkedin, last updated [4/1/26]: 
 
 <img src="/images/linkedin.svg" />
@@ -7,3 +5,5 @@ Linkedin, last updated [4/1/26]:
 -----
 
 [Enterprise Products](https://medium.com/@sueannioanis)
+
+[Hosted](https://sueannioanis.com)
