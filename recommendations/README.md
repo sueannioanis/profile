@@ -12,12 +12,12 @@
 
 Notable Recognition
 
-· The French Honors Society
+- The French Honors Society
 
-· The Dean’s List
+- The Dean’s List
 
-· IBM Honors for Machine Learning
+- IBM Honors for Machine Learning
 
-· Cognizant Technology Solutions Award
+- Cognizant Technology Solutions Award
 
-· The FWA Award
+- The FWA Award
