@@ -10,7 +10,7 @@
 
 ------
 
-Notable Recognition
+_Notable Recognition_
 
 - The French Honors Society
 
