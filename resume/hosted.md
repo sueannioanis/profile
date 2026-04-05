@@ -8,4 +8,4 @@ Linkedin has been actively adding bad search results to my career. See status ab
 
 [Enterprise Products](https://medium.com/@sueannioanis)
 
-[Hosted Version](https://sueannioanis.com)
+[.com Version](https://sueannioanis.com)
