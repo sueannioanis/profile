@@ -1,4 +1,4 @@
-Linkedin, last updated [4/1/26]: 
+Linkedin, last updated [4/5/26]: 
 
 <img src="/images/linkedin.svg" />
 
