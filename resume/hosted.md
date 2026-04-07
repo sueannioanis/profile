@@ -1,4 +1,4 @@
-Linkedin, see the follwing status. last updated [4/7/26]: 
+Linkedin, see the follwing status: last updated [4/7/26]
 
 <img src="/images/linkedin.svg" />
 
