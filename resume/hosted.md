@@ -2,7 +2,7 @@ Linkedin, last updated [4/5/26]:
 
 <img src="/images/linkedin.svg" />
 
-Linkedin has been actively adding bad search results to my career. See status above. 
+[Please email s70550687@gmail.com for alternative professional network.] See status above. 
 
 -----
 
