@@ -1,6 +1,6 @@
 # History
 
-Latest Mastercard [draft]
+Latest Mastercard
 
 
 
