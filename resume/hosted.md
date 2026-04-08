@@ -1,4 +1,4 @@
-Linkedin Status: Last Updated [4/7/26]
+Linkedin Status: Last Updated [4/8/26]
 
 <img src="/images/linkedin.svg" />
 
