@@ -9,26 +9,23 @@ Qualifications: Lead Software Engineer, 13+ years as an engineer (datacenter eng
 Notable Recognition
 
 · The French Honors Society
+
 · The Dean’s List
+
 · IBM Honors for Machine Learning
+
 · Cognizant Technology Solutions Award
+
 · The FWA Award
-
------------
-
-Domain Expertise
-
-· Global Private Sectors
-· Financial Technology
-· International Finance
-· Wealth Strategy
 
 -----------
 
 Further
 
 · Included in a world renowned accelerator.
+
 · Executive Education based in New York City.
+
 · Backed by the United Nations.
 
 -----------
