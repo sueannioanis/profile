@@ -8,7 +8,7 @@ Building the best products in the world.
 
 -------
 
-_**My preference is only to highlight my professional work especially on professional sites such as Linkedin. Google and LinkedIn have been purposely adding bad search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft**_
+_**My preference is only to highlight my professional work especially on professional sites such as Linkedin. Google and LinkedIn have been purposely adding bad search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft.**_
 
 
 
