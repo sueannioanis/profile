@@ -16,7 +16,7 @@ Please email s70550687@gmail.com for a new professional network and search engin
 
 Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
-• April 15, 2026: (#02118184) I have been enrolled into graduate school. I created another case to follow up regarding LinkedIn Learning because the previous case was closed with no resolution. 
+• April 15, 2026: (#02118184) Case has been created regarding Linkedin Learning because the previous case was closed with no resolution. 
 
 • April 15, 2026 8:45 AM: Professional work profile has been restored. Build fail status will remain to see if LinkedIn will alter my professional work again without my permission. 
 
