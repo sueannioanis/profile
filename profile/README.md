@@ -6,7 +6,7 @@ Building the best products in the world.
 
 [Send Feedback](https://forms.gle/UqGu8QoUTcrTjhAeA)
 
-**Send an email:**** s70550687@gmail.com
+**Send an email:** s70550687@gmail.com
 
 -------
 
