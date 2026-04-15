@@ -8,7 +8,7 @@ Building the best products in the world.
 
 -------
 
-_My preference is only to highlight my professional work especially on LinkedIn. Google and LinkedIn have been purposely adding bad search results to my professional work. I don't really need the casual sites. Linkedin has taken down my professional work out of jealousy only keeping these casual sites to make themselves look better because they haven't done much._
+_My preference is only to highlight my professional work especially on LinkedIn. Google and LinkedIn have been purposely adding bad search results to my professional work. They have been reported along with Facebook and Microsoft._
 
 
 
