@@ -14,7 +14,7 @@ Please email s70550687@gmail.com for a new professional network and search engin
 
 -----
 
-[Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing):
+Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
 • April 15, 2026: (#02118184) I have been enrolled into graduate school. I created another case to follow up regarding LinkedIn Learning because the previous case was closed with no resolution. 
 
