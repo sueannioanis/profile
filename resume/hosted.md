@@ -2,7 +2,7 @@ Linkedin Status: Last Updated [4/15/26]
 
 [<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-351752403/)
 
-[Public incidents](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)
+[Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)
 
 -----
 
@@ -34,4 +34,4 @@ Please email s70550687@gmail.com for a new professional network and search engin
 
 • April 15, 2026 8:52 AM: Linkedin is sending fake errors when attempting to login. "You have entered an invalid code. Please try again."
 
-• April 15, 2026 8:52 AM: [Public incidents](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing) has been created.
+• April 15, 2026 8:52 AM: [Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing) has been created.
