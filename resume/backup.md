@@ -22,6 +22,8 @@ Mastercard
 
 This individual worked on the architectural evolution and delivery excellence for three cross-functional engineering groups within the Mastercard Network. My focus was on transforming the core build and deployment infrastructure to support the “always-on” requirements of global financial transactions, ensuring that every optimization enhanced both developer velocity and system resilience.
 
+[for edit]
+
 2022 - 2023 · New York, New York, United States Senior Software Engineer (ICS)
 JPMorganChase
 
