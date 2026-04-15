@@ -16,7 +16,7 @@ Building the best products in the world.
 
 **Disclaimer:** ([See a detailed log of incidents.](https://github.com/sueannioanis/.github/blob/main/resume/hosted.md)) 
 
-_My preference as a Lead Software Engineer is only to highlight my professional work on professional sites such as LinkedIn. Google and LinkedIn have been purposely adding bad  unrelated search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft._ 
+_My preference as a Lead Software Engineer is only to highlight my professional work on professional sites such as LinkedIn and improve the environments. Google and LinkedIn have been purposely adding bad unrelated search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft._ 
 
 
 
