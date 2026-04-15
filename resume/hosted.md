@@ -1,6 +1,6 @@
 Linkedin Status: Last Updated [4/15/26]
 
-[<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-764745403)
+[<img src="/images/linkedin.svg" />](www.linkedin.com/in/sue-ioanis-8b1754403)
 
 #02118184 I created a case regarding LinkedIn Learning. 
 
