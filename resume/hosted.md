@@ -2,6 +2,8 @@ Linkedin Status: Last Updated [4/15/26]
 
 [<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-351752403/)
 
+[Public incidents](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)
+
 -----
 
 Please email s70550687@gmail.com for a new professional network and search engine. This is the [.pdf](https://github.com/sueannioanis/.github/blob/main/resume/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
