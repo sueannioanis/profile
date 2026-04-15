@@ -2,8 +2,6 @@ Linkedin Status: Last Updated [4/15/26]
 
 [<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-28977a403)
 
-[Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)
-
 -----
 
 Please email s70550687@gmail.com for a new professional network and search engine. This is the [.pdf](https://github.com/sueannioanis/.github/blob/main/resume/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
@@ -15,6 +13,8 @@ Please email s70550687@gmail.com for a new professional network and search engin
 [.com Version](https://sueannioanis.com)
 
 -----
+
+[Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing):
 
 • April 15, 2026: (#02118184) I have been enrolled into graduate school. I created another case to follow up regarding LinkedIn Learning because the previous case was closed with no resolution. 
 
