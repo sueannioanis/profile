@@ -55,7 +55,7 @@ Education
 
 University of London, UCL School of Management
 
-
+[for edit]
 
 Certificate of Completion
 
@@ -70,4 +70,6 @@ IBM Honors for Machine Learning
 Cognizant Technology Solutions Award
 
 The FWA Award
+
+[for edit]
 ```
