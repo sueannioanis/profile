@@ -22,7 +22,7 @@ Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP
 
 • April 15, 2026 8:50 AM: Linkedin has altered my professional work without my permission.
 
-• April 15, 2026 8:52 AM: Linkedin is sending fake errors when attempting to login. "You have entered an invalid code. Please try again."
+• April 15, 2026 8:52 AM: Linkedin is sending inaccurate errors when attempting to login. "You have entered an invalid code. Please try again."
 
 • April 15, 2026 9:08 AM: Linkedin has altered my professional work without my permission.
 
@@ -32,6 +32,6 @@ Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP
 
 • April 15, 2026 9:50 AM: Linkedin has altered my professional work without my permission. 
 
-• April 15, 2026 8:52 AM: Linkedin is sending fake errors when attempting to login. "You have entered an invalid code. Please try again."
+• April 15, 2026 8:52 AM: Linkedin is sending inaccurate errors when attempting to login. "You have entered an invalid code. Please try again."
 
 • April 15, 2026 8:52 AM: [Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing) has been created.
