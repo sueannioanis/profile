@@ -16,17 +16,17 @@ Infobox person
 | occupation  = Lead Software Engineer
 }}
 
-Sue Ann Ioanis
+'''Sue Ann Ioanis'''
 
-Location
+'''Location'''
 
 New York City Metropolitan Area
 
-About
+'''About'''
 
 This professional work profile includes world-class experience as an alumni of Mastercard, J.P. Morgan Chase & Co., LeafLink, and American Express onsite in Manhattan. Lead Software Engineer, 13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology).
 
-Experience
+'''Experience'''
 
 2023 - 2023
 Lead Software Engineer
@@ -63,7 +63,7 @@ American Express
 [for edit]
 
 
-Education
+'''Education'''
 
 University of London, UCL School of Management
 
@@ -71,7 +71,7 @@ University of London, UCL School of Management
 
 Certificate of Completion
 
-Honors & Awards
+'''Honors & Awards'''
 
 The French Honors Society
 
@@ -84,6 +84,5 @@ Cognizant Technology Solutions Award
 The FWA Award
 
 [for edit]
-
 
 ```
