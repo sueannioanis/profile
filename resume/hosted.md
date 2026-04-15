@@ -17,6 +17,8 @@ Linkedin Status: Last Updated [4/15/26]
 
 • April 15, 2026 9:11 AM: Linkedin has restored my professional work profile.
 
+• April 15, 2026 9:11 AM: Github profile has been backed up to record the incidents. 
+
 -----
 
 Please email s70550687@gmail.com for a new professional network and search engine. This is the [.pdf](https://github.com/sueannioanis/.github/blob/main/resume/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
