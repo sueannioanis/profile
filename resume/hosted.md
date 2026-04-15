@@ -1,6 +1,6 @@
 Linkedin Status: Last Updated [4/15/26]
 
-[<img src="/images/linkedin.svg" />](www.linkedin.com/in/sue-ioanis-b3674b403)
+[<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-b63750403/)
 
 
 -----
@@ -14,6 +14,8 @@ Linkedin Status: Last Updated [4/15/26]
 • April 15, 2026 8:52 AM: Linkedin is sending fake errors when attempting to login. "You have entered an invalid code. Please try again."
 
 • April 15, 2026 9:08 AM: Linkedin has altered my professional work without my permission.
+
+• April 15, 2026 9:11 AM: Linkedin has restored my professional work profile.
 
 -----
 
