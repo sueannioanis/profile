@@ -6,9 +6,11 @@ Building the best products in the world.
 
 [Send Feedback](https://forms.gle/UqGu8QoUTcrTjhAeA)
 
+**Send an email:**** s70550687@gmail.com
+
 -------
 
-_My preference is only to highlight my professional work especially on professional sites such as Linkedin. Google and LinkedIn have been purposely adding unrelated bad search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft._ Send an email: s70550687@gmail.com
+_My preference is only to highlight my professional work especially on professional sites such as Linkedin. Google and LinkedIn have been purposely adding unrelated bad search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft._ 
 
 
 
