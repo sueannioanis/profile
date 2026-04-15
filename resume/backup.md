@@ -1,5 +1,6 @@
 Backup of [Wiki](https://commons.wikimedia.org/wiki/User:Sioanis)
 
+```
 Sue Ioanis
 
 
@@ -11,7 +12,7 @@ New York City Metropolitan Area
 
 About
 
-With world-class experience as an alumni of Mastercard, J.P. Morgan Chase & Co., LeafLink, and American Express onsite in Manhattan. Lead Software Engineer, 13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology).
+This professional work profile includes world-class experience as an alumni of Mastercard, J.P. Morgan Chase & Co., LeafLink, and American Express onsite in Manhattan. Lead Software Engineer, 13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology).
 
 Experience
 
@@ -57,3 +58,4 @@ IBM Honors for Machine Learning
 Cognizant Technology Solutions Award
 
 The FWA Award
+```
