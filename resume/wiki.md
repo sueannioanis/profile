@@ -1,5 +1,7 @@
 Backup of [Wiki](https://commons.wikimedia.org/wiki/User:Sioanis).
 
+<img width="1489" height="984" alt="Screenshot 2026-04-15 at 6 41 47 PM" src="https://github.com/user-attachments/assets/a84b2831-77f3-4bee-8957-0368b7e337b4" />
+
 ```
 {{
 Infobox person
