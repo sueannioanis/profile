@@ -1,6 +1,6 @@
 Linkedin Status: Last Updated [4/15/26]
 
-[<img src="/images/linkedin.svg" />](www.linkedin.com/in/sue-ioanis-8b1754403)
+[<img src="/images/linkedin.svg" />]()
 
 
 -----
@@ -8,6 +8,8 @@ Linkedin Status: Last Updated [4/15/26]
 • April 15, 2026: (#02118184) I have been enrolled into graduate school. I created another case to follow up regarding LinkedIn Learning because the previous case was closed with no resolution. 
 
 • April 15, 2026 8:45 AM: Professional work profile has been restored. Fail status will remain to see if they will alter my professional work again. 
+
+• April 15, 2026 8:50 AM: Linkedin has altered my professional work without my permission.
 
 
 -----
