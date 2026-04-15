@@ -20,23 +20,33 @@ Experience
 Lead Software Engineer
 Mastercard
 
+This individual worked on the architectural evolution and delivery excellence for three cross-functional engineering groups within the Mastercard Network. My focus was on transforming the core build and deployment infrastructure to support the “always-on” requirements of global financial transactions, ensuring that every optimization enhanced both developer velocity and system resilience.
+
 2022 - 2023 · New York, New York, United States Senior Software Engineer (ICS)
 JPMorganChase
+
+[for edit]
 
 2022 – 2022
 · New York, New York, United States
 Senior Software Engineer
 OkCupid
 
+[for edit]
+
 2020 – 2020
 · New York, New York
 Senior Software Engineer
 LeafLink
 
+[for edit]
+
 2019 – 2020
 · New York, New York
 Software Engineer (Resy)
 American Express
+
+[for edit]
 
 
 Education
