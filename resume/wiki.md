@@ -1,12 +1,24 @@
 Backup of [Wiki](https://commons.wikimedia.org/wiki/User:Sioanis)
 
 ```
-Sue Ioanis
+{{
+Infobox person
+| name        = Sue Ann Ioanis
+| image       = Lead Software Engineer at Mastercard, Sue Ann Ioanis.jpg
+| caption     = 
+| birth_name  = 
+| birth_date  = 
+| birth_place = 
+| death_date  = 
+| death_place = 
+| spouse      = 
+| children    = 
+| occupation  = Lead Software Engineer
+}}
 
+Sue Ann Ioanis
 
-Lead Software Engineer at Mastercard
-
-[[File:Lead Software Engineer at Mastercard, Sue Ann Ioanis.jpg|thumb]]
+Location
 
 New York City Metropolitan Area
 
@@ -21,6 +33,8 @@ Lead Software Engineer
 Mastercard
 
 This individual worked on the architectural evolution and delivery excellence for three cross-functional engineering groups within the Mastercard Network. My focus was on transforming the core build and deployment infrastructure to support the “always-on” requirements of global financial transactions, ensuring that every optimization enhanced both developer velocity and system resilience.
+
+[for edit]
 
 2022 - 2023 · New York, New York, United States Senior Software Engineer (ICS)
 JPMorganChase
@@ -53,30 +67,23 @@ Education
 
 University of London, UCL School of Management
 
-Certificate of Completion
-
 [for edit]
+
+Certificate of Completion
 
 Honors & Awards
 
 The French Honors Society
 
-[for edit]
-
 The Dean's List
-
-[for edit]
 
 IBM Honors for Machine Learning
 
-[for edit]
-
 Cognizant Technology Solutions Award
-
-[for edit]
 
 The FWA Award
 
 [for edit]
+
 
 ```
