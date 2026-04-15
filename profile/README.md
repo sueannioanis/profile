@@ -16,7 +16,7 @@ Building the best products in the world.
 
 **Causes:** Education, Environment, Human Rights
 
-**Disclaimer:** ([See a detailed log of incidents.](https://github.com/sueannioanis/.github/blob/main/resume/hosted.md))
+**Disclaimer:** ([See a detailed log of incidents by Google.](https://github.com/sueannioanis/.github/blob/main/resume/hosted.md))
 
 
 
