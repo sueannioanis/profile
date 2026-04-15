@@ -14,6 +14,8 @@ Please email s70550687@gmail.com for a new professional network and search engin
 
 -----
 
+_Google and LinkedIn have been purposely adding bad, unrelated search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is only to highlight my professional work on professional sites such as LinkedIn and improve the environment._ 
+
 Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
 • April 15, 2026: (#02118184) Case has been created regarding Linkedin Learning because the previous case was closed with no resolution.
