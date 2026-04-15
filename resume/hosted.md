@@ -2,6 +2,15 @@ Linkedin Status: Last Updated [4/15/26]
 
 [<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-b63750403/)
 
+-----
+
+Please email s70550687@gmail.com for a new professional network and search engine. This is the [.pdf](https://github.com/sueannioanis/.github/blob/main/resume/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
+
+-----
+
+[Enterprise Products](https://medium.com/@sueannioanis)
+
+[.com Version](https://sueannioanis.com)
 
 -----
 
@@ -19,12 +28,4 @@ Linkedin Status: Last Updated [4/15/26]
 
 • April 15, 2026 9:11 AM: Github profile has been backed up to record the incidents. 
 
------
-
-Please email s70550687@gmail.com for a new professional network and search engine. This is the [.pdf](https://github.com/sueannioanis/.github/blob/main/resume/Profile%20-%202026-03-20T121419.987.pdf) version of my resume.
-
------
-
-[Enterprise Products](https://medium.com/@sueannioanis)
-
-[.com Version](https://sueannioanis.com)
+• April 15, 2026 9:50 AM: Linkedin has altered my professional work without my permission.
