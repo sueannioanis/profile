@@ -11,7 +11,7 @@ Linkedin Status: Last Updated [4/15/26]
 
 • April 15, 2026 8:50 AM: Linkedin has altered my professional work without my permission.
 
-• April 15, 2026 8:52 AM: Linkedin is faking errors when attempting to login. "You have entered an invalid code. Please try again."
+• April 15, 2026 8:52 AM: Linkedin is sending fake errors when attempting to login. "You have entered an invalid code. Please try again."
 
 -----
 
