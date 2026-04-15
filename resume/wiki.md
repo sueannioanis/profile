@@ -1,4 +1,4 @@
-Backup of [Wiki](https://commons.wikimedia.org/wiki/User:Sioanis)
+Backup of [Wiki](https://commons.wikimedia.org/wiki/User:Sioanis).
 
 ```
 {{
