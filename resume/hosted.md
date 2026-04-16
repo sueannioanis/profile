@@ -1,6 +1,6 @@
 Linkedin Status: Last Updated [4/15/26]
 
-[<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ann-ioanis-321732403](https://www.linkedin.com/in/sue-ann-ioanis-423736403/)
+<a href="https://www.linkedin.com/in/sue-ann-ioanis-321732403](https://www.linkedin.com/in/sue-ann-ioanis-423736403/"><img src="/images/linkedin.svg" /></a>
 
 -----
 
