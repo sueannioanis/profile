@@ -1,6 +1,6 @@
 Linkedin Status: Last Updated [4/15/26]
 
-[<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ioanis-600868403)
+[<img src="/images/linkedin.svg" />](https://www.linkedin.com/in/sue-ann-ioanis-321732403)
 
 -----
 
