@@ -17,8 +17,10 @@ Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP
 <img width="860" height="208" alt="Screenshot 2026-04-17 at 1 49 57 PM" src="https://github.com/user-attachments/assets/26a9863c-2431-4648-9dfc-32af9e45b839" />
 <i>Google is adding inaccurate results and bad results to my professional work background.</i>
 
+------
+
 <img width="860" height="500" alt="579960138-7ea836b9-fe4d-4733-9879-d56ebf62c26e" src="https://github.com/user-attachments/assets/af1dec71-30d2-47ef-bf2f-28b9586bb193" />
-<i>Hash still to be decided.</i>
+<i>Hash still to be added.</i>
 
 ------
 
