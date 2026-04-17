@@ -18,6 +18,8 @@ _Google and LinkedIn have been purposely adding bad, unrelated search results to
 
 Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
+<img width="1904" height="1232" alt="Screenshot 2026-04-17 at 10 17 11 AM" src="https://github.com/user-attachments/assets/7ea836b9-fe4d-4733-9879-d56ebf62c26e" />
+
 • Reports created: [Multiple Reports](https://github.com/sueannioanis/report), [Doc Format](https://docs.google.com/document/d/1LljqVCbN-_dtlghy5YsJ_Xcj-M03dUEh5wp5dLHODH4/edit?tab=t.0#heading=h.tyxxn59m89y3)
 
 • Stolen money originating from TikTok, (advertised as Baby Jeeter) See Zelle email: dtadesse357@gmail.com
