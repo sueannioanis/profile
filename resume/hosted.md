@@ -10,7 +10,7 @@ Please email s70550687@gmail.com for a new professional network and search engin
 
 [Enterprise Products](https://medium.com/@sueannioanis)
 
-[(.com) Version](https://sueannioanis.com)
+[(.com) Version](https://sueannioanis.com), Taken down and redirected to a domain for sale.
 
 -----
 
