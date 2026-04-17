@@ -15,7 +15,7 @@ Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP
 ------
 
 <img width="860" height="208" alt="Screenshot 2026-04-17 at 1 49 57 PM" src="https://github.com/user-attachments/assets/26a9863c-2431-4648-9dfc-32af9e45b839" />
-<i>Google is adding inaccurate and bad results to my professional work background.</i>
+<i>Google is adding inaccurate and bad results (This isn't my profile) to my professional work background.</i>
 
 ------
 
