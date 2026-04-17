@@ -5,6 +5,26 @@ Latest Mastercard
 
 [to edit]
 ```
+------
+
+**Qualifications**
+
+13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology)
+
+-------
+
+**Discussion**
+
+[Send Feedback](https://forms.gle/UqGu8QoUTcrTjhAeA)
+
+-------
+
+**Send an email:** s70550687@gmail.com
+
+-------
+
+**Causes:** Education, Environment, Human Rights
+
 As a Lead Software Engineer at Mastercard, I worked on the architectural evolution and delivery excellence for three cross-functional engineering groups within the Mastercard Network. My focus was on transforming the core build and deployment infrastructure to support the “always-on” requirements of global financial transactions, ensuring that every optimization enhanced both developer velocity and system resilience. 
 
 
