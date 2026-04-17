@@ -18,7 +18,7 @@ Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP
 
 • Reports created: [Multiple Reports](https://github.com/sueannioanis/report), [Doc Format](https://docs.google.com/document/d/1LljqVCbN-_dtlghy5YsJ_Xcj-M03dUEh5wp5dLHODH4/edit?tab=t.0#heading=h.tyxxn59m89y3)
 
-• Stolen money originating from TikTok, (advertised as Baby Jeeter) See Zelle email: dtadesse357@gmail.com
+• Unrecovered ltolen money and bike originating from Venice Beach, California and TikTok, (advertised as Baby Jeeter) See Zelle email: dtadesse357@gmail.com
 
 • April 15, 2026: (#02118184) Case has been created regarding Linkedin Learning because the previous case was closed with no resolution.
 
