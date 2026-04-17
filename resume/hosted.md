@@ -18,7 +18,10 @@ _Google and LinkedIn have been purposely adding bad, unrelated search results to
 
 Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
-• Report created: https://github.com/sueannioanis/report
+• Reports created:
+
+https://github.com/sueannioanis/report
+https://docs.google.com/document/d/1LljqVCbN-_dtlghy5YsJ_Xcj-M03dUEh5wp5dLHODH4/edit?tab=t.0#heading=h.tyxxn59m89y3
 
 • April 15, 2026: (#02118184) Case has been created regarding Linkedin Learning because the previous case was closed with no resolution.
 
