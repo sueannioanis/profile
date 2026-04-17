@@ -7,7 +7,9 @@ Someone please call the police, my local police are involved with this harassmen
 
 **Summary**
 
-Building the best products in the world. Lead Software Engineer, Data at Mastercard
+Building the best products in the world.
+
+Lead Software Engineer, Data at Mastercard
 
 -------
 
