@@ -4,15 +4,15 @@ Someone please call the police, my local police are involved with this harassmen
 
 ------
 
-**Qualifications**
-
-13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology)
-
-------
-
 **Summary**
 
 Building the best products in the world.
+
+------
+
+**Qualifications**
+
+13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology)
 
 -------
 
