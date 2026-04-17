@@ -1,4 +1,4 @@
-Linkedin Status: Last Updated [4/15/26]
+Linkedin Status: Last Updated [4/17/26]
 
 <a href="https://www.linkedin.com/in/sue-ioanis-0a7280404"><img src="https://github.com/sueannioanis/.github/blob/main/images/linkedin.svg" /></a>
 
