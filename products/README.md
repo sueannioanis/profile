@@ -2,7 +2,6 @@
 
 Latest Mastercard
 
-
 [to edit]
 
 ```
