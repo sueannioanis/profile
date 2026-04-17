@@ -5,7 +5,7 @@ Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP
 ------
 
 <img width="860" height="208" alt="Screenshot 2026-04-17 at 1 49 57 PM" src="https://github.com/user-attachments/assets/26a9863c-2431-4648-9dfc-32af9e45b839" />
-<i>4/17/26: Google Seatch results. This is not my profile in the screen capture.</i>
+<i>4/17/26: Google Search results. This is not my profile in the screen capture.</i>
 
 ------
 
