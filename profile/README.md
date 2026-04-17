@@ -9,8 +9,6 @@ Someone please call the police, my local police are involved with this harassmen
 
 Building the best products in the world.
 
-Lead Software Engineer, Data at Mastercard
-
 -------
 
 **Discussion**
