@@ -2,6 +2,11 @@ Someone please call the police, my local police are involved with this harassmen
 
 [See a detailed log of incidents by LinkedIn and Google.](https://github.com/sueannioanis/.github/blob/main/resume/linkedin.md)
 
+------
+
+**Qualifications**
+
+13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology)
 
 ------
 
