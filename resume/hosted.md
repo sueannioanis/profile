@@ -10,8 +10,6 @@ Please email s70550687@gmail.com for a new professional network and search engin
 
 [Enterprise Products](https://medium.com/@sueannioanis)
 
-[(.com) Version](https://sueannioanis.com): Taken down and redirected to my domain for sale.
-
 -----
 
 _Google and LinkedIn have been purposely adding bad, unrelated search results to my professional work. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is only to highlight my professional work on professional sites such as LinkedIn and improve the environment._ 
