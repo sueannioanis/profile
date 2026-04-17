@@ -8,26 +8,6 @@ Someone please call the police, my local police are involved with this harassmen
 
 Building the best products in the world.
 
-------
-
-**Qualifications**
-
-13+ years as an engineer (datacenter engineering experience, executive credentials, university degree in technology)
-
--------
-
-**Discussion**
-
-[Send Feedback](https://forms.gle/UqGu8QoUTcrTjhAeA)
-
--------
-
-**Send an email:** s70550687@gmail.com
-
--------
-
-**Causes:** Education, Environment, Human Rights
-
 
 
 
