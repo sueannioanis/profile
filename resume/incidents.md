@@ -1,6 +1,6 @@
 <i>Google and LinkedIn have been purposely adding bad, inaccurate, unrelated search results to my professional work and education on LinkedIn. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is to improve the environment and my professional work.</i>
 
-Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
+See Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
 ------
 
