@@ -2,7 +2,7 @@
 
 Building the best products in the world.
 
-**Incidents:** [See a detailed log of incidents by LinkedIn and Google.](https://github.com/sueannioanis/.github/blob/main/resume/incidents.md)
+[See a detailed log of incidents by LinkedIn and Google.](https://github.com/sueannioanis/.github/blob/main/resume/incidents.md)
 
 ------
 
