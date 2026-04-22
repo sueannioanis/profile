@@ -1,4 +1,4 @@
-[(.com) Version](https://sueannioanis.com): Temporary redirected to my domain for sale.
+[(.com) Version](https://sueannioanis.com): Temporary redirect to my domain for sale.
 
 [to add the Latest Revision]
 
