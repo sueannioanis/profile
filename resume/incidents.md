@@ -12,7 +12,7 @@ See Logs ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg
 
 ------
 
-_Unrecovered money and bike taken originating from TikTok, (advertised as Baby Jeeter) linked to this email on Zelle: dtadesse357@gmail.com_
+_Unrecovered money and bicyle taken originating from TikTok, (advertised as Baby Jeeter) linked to this email on Zelle: dtadesse357@gmail.com_
 
 ------
 
