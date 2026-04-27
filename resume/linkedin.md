@@ -1,4 +1,4 @@
-Linkedin Status: Last Updated [4/17/26]
+Linkedin Status: Last Updated [4/27/26]
 
 <a href="#Your noCAPTCHA user response code is missing or invalid."><img src="https://github.com/sueannioanis/.github/blob/main/images/linkedin.svg" /></a>
 
