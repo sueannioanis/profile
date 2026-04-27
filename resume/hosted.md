@@ -1,4 +1,4 @@
-[(.com) Version](https://sueannioanis.com): [to add the Latest Revision]
+[(.com) Version](https://sueannioanis.com): to add the latest revision.
 
 ------
 
