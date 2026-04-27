@@ -5,7 +5,7 @@
 <b>Disclaimer:</b> <i>Google and LinkedIn have been committing fraud purposely adding bad, inaccurate, unrelated search results to my professional work and education on LinkedIn. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is to improve the environment and my professional work.</i>
 
 <img width="860" height="208" alt="Screenshot 2026-04-17 at 1 49 57 PM" src="https://github.com/user-attachments/assets/26a9863c-2431-4648-9dfc-32af9e45b839" />
-<i>4/17/26: Screen capture of incident is above. This is not my profile in the screen capture of Google Search results. The Google results are altered, I currently do not support any of the altered Google search results. Google is using other platforms to discredit my work and education.</i>
+<i>4/17/26: Screen capture of incident is above. This is not my profile in the screen capture of Google Search results. The Google results are altered, I currently do not support any of the altered Google search results. Google is using other platforms to commit fraud.</i>
 <br /> <br />
 <img width="860" height="500" alt="579960138-7ea836b9-fe4d-4733-9879-d56ebf62c26e" src="https://github.com/user-attachments/assets/af1dec71-30d2-47ef-bf2f-28b9586bb193" />
 <i>4/17/26: Screen capture of incident is above. This is my actual profile. Hash still to be added.</i>
