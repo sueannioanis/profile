@@ -12,7 +12,7 @@
 
 ------
 
-Possible connection with Major League Baseball: _Unrecovered money and bicycle has been taken originating from other platforms, (advertised as Baby Jeeter) linked to this email: dtadesse357@gmail.com_
+Possible connection with Major League Baseball: _Unrecovered of hard earned money and bicycle has been taken originating from other platforms, (advertised as Baby Jeeter) linked to this email: dtadesse357@gmail.com_
 
 ------
 
