@@ -1,5 +1,3 @@
-### Data Engineering
+### Data Engineering Resources
 
-```
-[for edit]
-```
+[Google](https://cloud.google.com/blog/products/devops-sre)
