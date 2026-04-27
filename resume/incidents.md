@@ -1,8 +1,8 @@
-<b>Disclaimer:</b> <i>Google and LinkedIn have been committing fraud purposely adding bad, inaccurate, unrelated search results to my professional work and education on LinkedIn. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is to improve the environment and my professional work.</i>
+<b>See Logs</b> ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
 
 ------
 
-<b>See Logs</b> ([Incident Tracker](https://docs.google.com/spreadsheets/d/1Rn9Ol6V1bGg6jxP8eNzeUa3s7pu_oJY_MlCp36qo9xs/edit?usp=sharing)):
+<b>Disclaimer:</b> <i>Google and LinkedIn have been committing fraud purposely adding bad, inaccurate, unrelated search results to my professional work and education on LinkedIn. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is to improve the environment and my professional work.</i>
 
 <img width="860" height="208" alt="Screenshot 2026-04-17 at 1 49 57 PM" src="https://github.com/user-attachments/assets/26a9863c-2431-4648-9dfc-32af9e45b839" />
 <i>4/17/26: (screenprint of incident is captured above) This is not my profile in the screen capture of Google Search results. The Google results are altered, I currently do not support the altered Google search results. Google is using other platforms to discredit my work and education. I do not support the Google search results any the new altered versions Google is responsible for.</i>
