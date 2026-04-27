@@ -12,7 +12,7 @@
 
 ------
 
-_Unrecovered money and bicycle taken originating from TikTok, (advertised as Baby Jeeter) linked to this email on Zelle: dtadesse357@gmail.com_
+_Unrecovered money and bicycle taken originating from other platforms, (advertised as Baby Jeeter) linked to this email on Zelle: dtadesse357@gmail.com_
 
 ------
 
