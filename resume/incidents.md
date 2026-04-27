@@ -1,4 +1,4 @@
-<i>Google and LinkedIn have been committing fraud purposely adding bad, inaccurate, unrelated search results to my professional work and education on LinkedIn. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is to improve the environment and my professional work.</i>
+<b>Disclaimer:</b> <i>Google and LinkedIn have been committing fraud purposely adding bad, inaccurate, unrelated search results to my professional work and education on LinkedIn. Google and LinkedIn have been reported along with Facebook and Microsoft. My preference as a Lead Software Engineer is to improve the environment and my professional work.</i>
 
 ------
 
