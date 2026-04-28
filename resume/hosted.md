@@ -1,6 +1,6 @@
 [(.com) Version](https://sueannioanis.com): to add the latest revision.
 
-This is also [me](https://github.com/sioanis).
+This is also [my Github](https://github.com/sioanis).
 
 ------
 
